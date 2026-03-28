@@ -1,1 +1,1 @@
-un additif pour vos site (pagination , bouton rechercher ...)
+un additif pour vos sites (pagination , bouton rechercher ...)
